@@ -8,6 +8,7 @@
             <link href="styles.css" rel="stylesheet">
 </head>
 <body>
+   class="works_on_smartphone" 
     <h1>Astronomy</h1>
   <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
   <p>Check out my <a href="https://X.com/yourusername" target="_blank">X profile</a> for more tweets.</p>
