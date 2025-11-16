@@ -7,15 +7,39 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <h1>Hello CSS!</h1>
-
-<main> 
-    <article>: contains the content of your webpage: texts, links, images, tweets</article>
+     flex-direction : column
+     display : flex
+<h1>Astronomy</h1>
+  <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
+  <p>Check out my <a href="https://X.com/yourusername" target="_blank">X profile</a> for more tweets.</p>
+  <ul>
+    <li>Pizza</li>
+    <li>Ice cream</li>
+    <li>Chocolate</li>
+</ul>
+    <h2> IT  </h2>
+  <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
+  <main> 
+        flex-direction : row
+     display : flex
+    <article>: contains the content of your webpage: texts, links, images, tweets
+       flex:2
+        overflow-y : auto
+</article>
+      flex:auto
   </main>
-
-<aside>
+    <h3> sports </h3>
+  <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
+  <aside>
     <p> just reading for now “placeholder to add comment thread later”.</p>
+    flex:1
+    overflow-y: auto
   </aside>
+
+<footer> 
+  <YOUR NAME> - <a href="<ANY LINK>" target="_blank">here</a>. 
+  </YOUR>
+</footer>
 
   </body>
 </html>
