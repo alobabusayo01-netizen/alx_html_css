@@ -20,7 +20,9 @@
     <h2> IT  </h2>
   <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
   <main> 
-    <article>: contains the content of your webpage: texts, links, images, tweets</article>
+    <article>: contains the content of your webpage: texts, links, images, tweets
+   class="logo"
+</article>
   </main>
     <h3> sports </h3>
   <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
